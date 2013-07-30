@@ -143,7 +143,7 @@ turned into a true community effort. Special thanks to the following
 contributors:
 
 * [Erik Michaels-Ober](http://github.com/sferik)
-* [Clint Shryock](http://github.com/ctshryock)
+* [Clint Shryock](http://github.com/catsby)
 * [Joey Wendt](http://github.com/joeyw)
 
 
